@@ -3,9 +3,9 @@
 %-------------------------------------------%
 %        FEM frame element algorithm        % 
 %-------------------------------------------%
-% Autor: Marcos Antonio R. Ezequiel         %
+% Author: Marcos Antonio R. Ezequiel        %
 %-------------------------------------------%
-% Data: 11/12/2021                          %
+% Date: 11/12/2021                          %
 %===========================================%
 
 %% Initialization
